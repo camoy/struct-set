@@ -3,7 +3,7 @@
 ;; General
 
 (define collection "struct-set")
-(define pkg-desc "Description Here")
+(define pkg-desc "Helpers for immutably updating structs.")
 (define version "0.0")
 (define pkg-authors '(camoy))
 (define scribblings '(("scribblings/struct-set.scrbl" ())))
