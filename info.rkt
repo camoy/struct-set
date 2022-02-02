@@ -15,7 +15,8 @@
     "base"))
 
 (define build-deps
-  '("chk-lib"
+  '("sandbox-lib"
+    "chk-lib"
     "scribble-lib"
     "racket-doc"
     "rackunit-lib"))
